@@ -1,2 +1,2 @@
-# DK-Labration1
+# Datorkommunikation-Labration1
 # Ihisan Bashe
